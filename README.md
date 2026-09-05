@@ -30,6 +30,27 @@ In fact, as a parallel, I have had to coach myself for much of my professional c
 > repositories because of commercial and IP restrictions.
 
 
+## What I build
+
+🤖 **Applied AI systems** — agents, tool use, structured outputs and LLM workflows
+
+🔎 **Retrieval systems** — RAG, embeddings, hybrid retrieval, reranking and evaluation
+
+🧠 **Machine learning systems** — training pipelines, feature engineering,
+evaluation and deployment
+
+⚙️ **Backend systems** — Python/TypeScript APIs, databases, asynchronous
+workflows and data pipelines
+
+☁️ **Production infrastructure** — AWS, GCP, Docker, SageMaker and Cloud Run
+
+## Specific Domain Experience
+
+* Sports
+* Health
+* Logistics
+* Finance and Economics
+
 
 
 <!--
