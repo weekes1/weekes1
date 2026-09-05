@@ -7,7 +7,6 @@ backend engineering and cloud infrastructure.
 
 🏊 National Record Holder & World Championships swimmer  
 🏆 International Sports Convention 30 Under 30
- PRIX GALIEN START UP NOMINEE
 📍 London, UK
 
 ## About me
