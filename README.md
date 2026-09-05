@@ -68,12 +68,18 @@ High-performance sport has strongly influenced how I approach engineering:
 
 ## Highlights and Awards 🏆
 
-### International Sports Convention 30 Under 30
+### [International Sports Convention 30 Under 30](https://internationalsportsconvention.com/isc-30-under-thirty-awards-3/)
+
 Recognised for contributions to sports technology.
 
 <p align="center">
   <img src="assets/ISC.jpg" alt="International Sports Convention 30 Under 30" width="45%"/>
-  <img src="assets/Prix.jpg" alt="Sports technology recognition" width="45%"/>
+</p>
+
+### [Prix Galien Nomination — Best Digital Health Solution](https://www.prnewswire.co.uk/news-releases/the-galien-foundation-announces-2025-prix-galien-uk-award-candidates-for-best-biotechnology-product-best-digital-health-solution-best-medical-technology-best-pharmaceutical-product-best-public-sector-innovation-and--302452778.html?tc=eml_cleartime)
+
+<p align="center">
+  <img src="assets/Prix.jpg" alt="Prix Galien nomination for Best Digital Health Solution" width="45%"/>
 </p>
 
 ## Let's connect
