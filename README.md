@@ -9,10 +9,6 @@ backend engineering and cloud infrastructure.
 🏆 International Sports Convention 30 Under 30  
 📍 London, UK
 
-<p align="center">
-  <img src="assets/Flag_bearing.JPG" alt="Luis Weekes representing Barbados" width="650"/>
-</p>
-
 ## About me
 
 I'm an Applied AI and Backend Engineer focused on turning AI/ML capabilities
@@ -65,6 +61,10 @@ regional international championships.
 
 High-performance sport has strongly influenced how I approach engineering:
 **attention to detail, curiosity, ownership and perseverance.**
+
+<p align="center">
+  <img src="assets/Flag_bearing.JPG" alt="Luis Weekes representing Barbados" width="300"/>
+</p>
 
 ## Highlights and Awards 🏆
 
