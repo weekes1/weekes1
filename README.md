@@ -27,9 +27,7 @@ A unique skill of mine is that i'm not afraid to be in uncomfortable situations 
 In fact, as a parallel, I have had to coach myself for much of my professional career in swimming. 
 
 > **Note:** Much of my production engineering work lives in private company
-> repositories because of commercial and IP restrictions. The repositories
-> below are selected public projects and implementations demonstrating the
-> engineering patterns I use professionally.
+> repositories because of commercial and IP restrictions.
 
 
 
