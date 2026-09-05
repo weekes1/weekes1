@@ -67,10 +67,9 @@ attention to detail, curiosity, ownership and perseverance.
 
 ## Let's connect
 
-I'm based in London and interested in Applied AI, AI Engineering,
-ML Engineering and Backend Engineering opportunities.
+I'm based in London and interested in Applied AI, AI Engineering, ML Engineering, and Backend Engineering opportunities.
 
-[LinkedIn]((https://www.linkedin.com/in/luissebastianweekes/)) · [Email](mailto: luis.sebastian.weekes.d8a@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/luissebastianweekes/) · [Email](mailto:luis.sebastian.weekes.d8a@gmail.com)
 
 <!--
 **weekes1/weekes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
