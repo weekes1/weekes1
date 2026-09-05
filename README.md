@@ -6,28 +6,34 @@ I work across agentic AI, LLM systems, retrieval/evaluation, machine learning,
 backend engineering and cloud infrastructure.
 
 🏊 National Record Holder & World Championships swimmer  
-🏆 International Sports Convention 30 Under 30
+🏆 International Sports Convention 30 Under 30  
 📍 London, UK
+
+<p align="center">
+  <img src="assets/Flag_bearing.JPG" alt="Luis Weekes representing Barbados" width="650"/>
+</p>
 
 ## About me
 
 I'm an Applied AI and Backend Engineer focused on turning AI/ML capabilities
 into reliable production systems.
 
-My work spans LLM applications (RAG, Agents and Context building), machine-learning pipelines, APIs and cloud infrastructure.
+My work spans LLM applications — including RAG, agents and context engineering —
+machine-learning pipelines, APIs and cloud infrastructure.
 
 I've worked primarily in early-stage startups, where I've owned several systems from
 initial experimentation through backend architecture and production deployment.
 
-I have had the privilege of wearing many hats at these small start ups and hence have gained a wide array of experiences;
-I have even had the privilege of building front ends for apps and deploying them using testflight. 
+I've had the privilege of wearing many hats at small startups and, as a result,
+have gained experience across a wide range of the technology stack. I've even
+built front ends for mobile applications and deployed them through TestFlight.
 
-A unique skill of mine is that i'm not afraid to be in uncomfortable situations or to learn things on the fly. 
-In fact, as a parallel, I have had to coach myself for much of my professional career in swimming. 
+One of my strengths is that I'm comfortable putting myself in unfamiliar situations
+and learning quickly. There is a strong parallel with my swimming career, where
+I've had to coach myself for much of my professional career.
 
 > **Note:** Much of my production engineering work lives in private company
 > repositories because of commercial and IP restrictions.
-
 
 ## What I build
 
@@ -45,10 +51,10 @@ workflows and data pipelines
 
 ## Specific Domain Experience
 
-⚽️ Sports
-⚕️Health
-🚛 Logistics
-🏦 Finance and Economics
+⚽️ **Sports**  
+⚕️ **Health**  
+🚛 **Logistics**  
+🏦 **Finance and Economics**
 
 ## Beyond engineering 🏊
 
@@ -58,15 +64,22 @@ I've competed at the World Championships, Commonwealth Games, NCAA level and
 regional international championships.
 
 High-performance sport has strongly influenced how I approach engineering:
-attention to detail, curiosity, ownership and perseverance.
+**attention to detail, curiosity, ownership and perseverance.**
 
-## Highlights and Awards: 
+## Highlights and Awards 🏆
 
-### International Sports Convention 30 under 30 for contributions to sports tech
+### International Sports Convention 30 Under 30
+Recognised for contributions to sports technology.
+
+<p align="center">
+  <img src="assets/ISC.jpg" alt="International Sports Convention 30 Under 30" width="45%"/>
+  <img src="assets/Prix.jpg" alt="Sports technology recognition" width="45%"/>
+</p>
 
 ## Let's connect
 
-I'm based in London and interested in Applied AI, AI Engineering, ML Engineering, and Backend Engineering opportunities.
+I'm based in London and interested in Applied AI, AI Engineering,
+ML Engineering and Backend Engineering opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/luissebastianweekes/) · [Email](mailto:luis.sebastian.weekes.d8a@gmail.com)
 
