@@ -46,12 +46,31 @@ workflows and data pipelines
 
 ## Specific Domain Experience
 
-* Sports
-* Health
-* Logistics
-* Finance and Economics
+⚽️ Sports
+⚕️Health
+🚛 Logistics
+🏦 Finance and Economics
 
+## Beyond engineering 🏊
 
+I'm also an international competitive swimmer and national record holder for Barbados.
+
+I've competed at the World Championships, Commonwealth Games, NCAA level and
+regional international championships.
+
+High-performance sport has strongly influenced how I approach engineering:
+attention to detail, curiosity, ownership and perseverance.
+
+## Highlights and Awards: 
+
+### International Sports Convention 30 under 30 for contributions to sports tech
+
+## Let's connect
+
+I'm based in London and interested in Applied AI, AI Engineering,
+ML Engineering and Backend Engineering opportunities.
+
+[LinkedIn]((https://www.linkedin.com/in/luissebastianweekes/)) · [Email](mailto: luis.sebastian.weekes.d8a@gmail.com)
 
 <!--
 **weekes1/weekes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
